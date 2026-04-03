@@ -7,15 +7,15 @@
     <language>pt-BR</language>
     <item>
       <title>Vigil 1.0.0</title>
-      <pubDate>Fri, 03 Apr 2026 17:13:23 +0000</pubDate>
+      <pubDate>Fri, 03 Apr 2026 17:31:07 +0000</pubDate>
       <sparkle:releaseNotesLink>https://github.com/brunomarquesq/vigil/releases/tag/v1.0.0</sparkle:releaseNotesLink>
       <enclosure
-        url=""
+        url="https://github.com/brunomarquesq/vigil-updates/releases/download/v1.0.0/Vigil-1.0.0.dmg"
         sparkle:version="1.0.0"
         sparkle:shortVersionString="1.0.0"
-        length="23556988"
+        length="23623280"
         type="application/octet-stream"
-        sparkle:edSignature="bni0F9fNScOCFoc5GkLsZcropKqUVK8C6NyhxwpE4uEtLewmc4kzRXDNmAM99ldr8dnK7dUR2Nd/chKe5k42CQ=="
+        sparkle:edSignature="GmADZWRc984lb7IuJ0Av7MqnrDKHLU13n+AbOBeeLEqQgd+zbTLTlnTF0Dd3N9KRPnhxy8CD6Vt1yYrqaWGNAQ=="
       />
     </item>
   </channel>
