@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--
-  Vigil — Sparkle Appcast
-  ────────────────────────────────────────────────────────────────
-  Este arquivo é atualizado AUTOMATICAMENTE pelo GitHub Actions
-  a cada nova release (workflow .github/workflows/release.yml).
-
-  NÃO edite manualmente — será sobrescrito no próximo deploy.
-
-  Para criar uma release:
-    git tag v1.0.1 && git push origin v1.0.1
-  ────────────────────────────────────────────────────────────────
--->
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Vigil</title>
     <link>https://github.com/brunomarquesq/vigil</link>
-    <description>Atualizações automáticas do Vigil</description>
+    <description>Atualizações do Vigil</description>
     <language>pt-BR</language>
-    <!-- Itens de release serão inseridos aqui pelo GitHub Actions -->
+    <item>
+      <title>Vigil 1.0.0</title>
+      <pubDate>Fri, 03 Apr 2026 17:13:23 +0000</pubDate>
+      <sparkle:releaseNotesLink>https://github.com/brunomarquesq/vigil/releases/tag/v1.0.0</sparkle:releaseNotesLink>
+      <enclosure
+        url=""
+        sparkle:version="1.0.0"
+        sparkle:shortVersionString="1.0.0"
+        length="23556988"
+        type="application/octet-stream"
+        sparkle:edSignature="bni0F9fNScOCFoc5GkLsZcropKqUVK8C6NyhxwpE4uEtLewmc4kzRXDNmAM99ldr8dnK7dUR2Nd/chKe5k42CQ=="
+      />
+    </item>
   </channel>
 </rss>
